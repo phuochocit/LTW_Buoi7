@@ -1,0 +1,15 @@
+D:\VuDuongHoangPhuoc_2280602515\KT_GiuaKy\KT_GiuaKy\bin\Debug\KT_GiuaKy.exe.config
+D:\VuDuongHoangPhuoc_2280602515\KT_GiuaKy\KT_GiuaKy\bin\Debug\KT_GiuaKy.exe
+D:\VuDuongHoangPhuoc_2280602515\KT_GiuaKy\KT_GiuaKy\bin\Debug\KT_GiuaKy.pdb
+D:\VuDuongHoangPhuoc_2280602515\KT_GiuaKy\KT_GiuaKy\bin\Debug\EntityFramework.dll
+D:\VuDuongHoangPhuoc_2280602515\KT_GiuaKy\KT_GiuaKy\bin\Debug\EntityFramework.SqlServer.dll
+D:\VuDuongHoangPhuoc_2280602515\KT_GiuaKy\KT_GiuaKy\bin\Debug\EntityFramework.xml
+D:\VuDuongHoangPhuoc_2280602515\KT_GiuaKy\KT_GiuaKy\bin\Debug\EntityFramework.SqlServer.xml
+D:\VuDuongHoangPhuoc_2280602515\KT_GiuaKy\KT_GiuaKy\obj\Debug\De01.csproj.AssemblyReference.cache
+D:\VuDuongHoangPhuoc_2280602515\KT_GiuaKy\KT_GiuaKy\obj\Debug\KT_GiuaKy.frmSinhvien.resources
+D:\VuDuongHoangPhuoc_2280602515\KT_GiuaKy\KT_GiuaKy\obj\Debug\KT_GiuaKy.Properties.Resources.resources
+D:\VuDuongHoangPhuoc_2280602515\KT_GiuaKy\KT_GiuaKy\obj\Debug\De01.csproj.GenerateResource.cache
+D:\VuDuongHoangPhuoc_2280602515\KT_GiuaKy\KT_GiuaKy\obj\Debug\De01.csproj.CoreCompileInputs.cache
+D:\VuDuongHoangPhuoc_2280602515\KT_GiuaKy\KT_GiuaKy\obj\Debug\De01.csproj.Up2Date
+D:\VuDuongHoangPhuoc_2280602515\KT_GiuaKy\KT_GiuaKy\obj\Debug\KT_GiuaKy.exe
+D:\VuDuongHoangPhuoc_2280602515\KT_GiuaKy\KT_GiuaKy\obj\Debug\KT_GiuaKy.pdb
